@@ -2,7 +2,7 @@
 
 This was my project that made me a **WWDC23 Swift Student Challenge** Scholar! In this project I wanted to utilize Apple's Vision Framework to detect hand poses or more specifically the number of fingers a person is holding up, and I turn that idea into sort of a game to count how many stars are currently shown on the screen and the player has to show the same number of fingers to the camera. 
 
-https://github.com/gonszalito/WWDC23/assets/80026436/74d98de1-a8da-4a73-a2a3-37d6e1ac9897
+![Short Demo](https://drive.google.com/file/d/12LhLqbI_KFmsQZ7AnaxNy3VBxJ1N7tyY/view?usp=drive_link)
 
 
 
